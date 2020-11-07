@@ -1,5 +1,5 @@
 body {
-    background: #eee;
+    background: #bff0ff;
   }
   
 .wrapper {
@@ -14,4 +14,9 @@ body {
 .dropDownColumn {
     margin-top: 10%;
     margin-bottom: 10%;
+}
+
+.suggestions {
+    color: black;
+    background: linear-gradient(0deg, #b5ffa8, #ffb2a8 50%);
 }
