@@ -1,0 +1,12 @@
+body {
+    background: #eee;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .container {
+    min-height: 100%;
+  }
