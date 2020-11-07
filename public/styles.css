@@ -2,11 +2,16 @@ body {
     background: #eee;
   }
   
-  .wrapper {
+.wrapper {
     display: flex;
     flex-direction: column;
-  }
+}
   
-  .container {
+.container {
     min-height: 100%;
-  }
+}
+
+.dropDownColumn {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
