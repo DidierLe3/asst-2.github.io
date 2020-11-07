@@ -11,6 +11,10 @@ body {
     min-height: 100%;
 }
 
+.navigationContainer {
+    margin: 1px;
+}
+
 .dropDownColumn {
     margin-top: 10%;
     margin-bottom: 10%;
